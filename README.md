@@ -12,3 +12,8 @@
 #源代码说明
 >* aodamiaoRun Fast.py为程序源文件，make.py为打包发布为exe所使用的文件。（使用方法：http://www.cnblogs.com/msxh/p/4886628.html )
 >* 一些常用的类和模块整合到了MyLibrary.py里面。
+
+#游戏预览图  
+![](http://images2015.cnblogs.com/blog/798142/201512/798142-20151214124841365-831950089.png)
+![](http://images2015.cnblogs.com/blog/798142/201512/798142-20151214124855756-2108065097.png)
+![](http://images2015.cnblogs.com/blog/798142/201512/798142-20151214124905318-1653104765.png)
